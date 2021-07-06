@@ -1,4 +1,36 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
+}h1{
+    font-weight: 700px;
+}
+.background-color{
+    color: orange;
+}
+.group-pic{
+    display: flex;
+    margin-bottom: 10px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 40%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px;
+    border-radius: 40px;
+    color: white;
+    font-weight: 700px;
+
+}
+#text-align{
+    text-align: center;
+}
+.three{
+    width: auto;
+    display: flex;
 }
