@@ -2,7 +2,11 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
 }h1{
-    font-weight: 700px;
+    font-weight: 900px;
+}
+.font-weight{
+    font-weight: 900px;
+}
 }
 .background-color{
     color: orange;
@@ -27,7 +31,7 @@ body{
     font-weight: 700px;
 
 }
-#text-align{
+.text-align{
     text-align: center;
     margin-bottom: 20px;
 }
