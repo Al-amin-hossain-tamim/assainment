@@ -16,7 +16,7 @@ body{
     padding-left: 2%;
 }
 .half-width img{
-    width: 40%;
+    width: 50%;
 }
 .link-button{
     text-decoration: none;
@@ -29,8 +29,12 @@ body{
 }
 #text-align{
     text-align: center;
+    margin-bottom: 20px;
 }
 .three{
     width: auto;
     display: flex;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    border-width: 20px;
 }
